@@ -9,7 +9,7 @@ p {
 
 li {
   text-align: center;
-  border: 2px solid blue;
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
